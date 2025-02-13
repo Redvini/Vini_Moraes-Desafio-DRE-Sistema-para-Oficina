@@ -12,4 +12,7 @@ Considerações:
 A solução apresentada não é definitiva e pode ser ainda mais refinada, minimizando a replicação de chaves estrangeiras.
 Sintam-se livres para sugerir alterações.
 
+Acesse aqui o DER: https://github.com/Redvini/Vini_Moraes-Desafio-DRE-Sistema-para-Oficina/commit/3d94d0040fe9d55d56b1fb83394e49f4256513d6
+
+
 Vini Moraes
